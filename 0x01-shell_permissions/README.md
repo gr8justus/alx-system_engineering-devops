@@ -9,3 +9,4 @@ This repository contains a collection of tasks related to shell permissions.
 • 4-empty: In this task, an empty file named hello was created.
 • 5-execute: Execute permission is addeded to the owner of the file hello.
 • 6-multiple_permissions: This task adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+• 7-everybody: This task adds execution permission to the owner, the group owner and the other users, to the file hello.
