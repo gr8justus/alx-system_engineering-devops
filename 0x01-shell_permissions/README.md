@@ -7,3 +7,4 @@ This repository contains a collection of tasks related to shell permissions.
 • 2-groups: Prints all the groups the current user is part of.
 • 3-new_owner: The owner of the file hello was changed to betty.
 • 4-empty: In this task, an empty file named hello was created.
+• 5-execute: Execute permission is addeded to the owner of the file hello.
