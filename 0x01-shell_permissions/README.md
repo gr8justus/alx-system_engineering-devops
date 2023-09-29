@@ -4,3 +4,4 @@ This repository contains a collection of tasks related to shell permissions.
 
 • 0-iam_betty: In this task, the user was switched to betty.
 • 1-who_am_i: This task prints the username of the current user.
+• 2-groups: Prints all the groups the current user is part of.
