@@ -10,4 +10,6 @@ This repository contains a collection of tasks related to shell permissions.
 • 5-execute: Execute permission is addeded to the owner of the file hello.
 • 6-multiple_permissions: This task adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 • 7-everybody: This task adds execution permission to the owner, the group owner and the other users, to the file hello.
-• 8-James_Bond: Thjs task grants all permission to other users only while the owner and groups have no access to the file hello.
+• 8-James_Bond: This task grants all permission to other users only while the owner and groups have no access to the file hello.
+• 9-John_Doe: This task sets the mode of the file hello to read, write, and execute for the owner; read, and execute for groups; write, and execute for other users.
+• 10-mirror_permissions:This task sets the mode of the file hello the same as olleh’s mode.
