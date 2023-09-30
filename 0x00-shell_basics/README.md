@@ -8,4 +8,5 @@ This repository contains scripts that run basic shell commands
 * 3-listfiles: This script displays the current directory contents in a long format.
 * 4-listmorefiles: This script displays current directory contents, including hidden files in long format.
 * 5-listfilesdigitonly: This script displays all the current directory contents with the user and group IDs in a long format.
-* 6-firstdirectory: Thiis script creates a new directory named my_first_directory in the /tmp/ directory.
+* 6-firstdirectory: This script creates a new directory named my_first_directory in the /tmp/ directory.
+* 7-movethatfile: This script moves the file betty from /tmp/ to /tmp/my_first_directory.
