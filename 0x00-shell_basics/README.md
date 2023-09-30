@@ -17,3 +17,4 @@ This repository contains scripts that run basic shell commands
 * 12-file_type: This script prints the type of the file named iamafile.
 * 13-symbolic_link: This script creates a symbolic link to /bin/ls, named _ls_.
 * 14-copy_html: This script copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+* 100-lets_move: This script moves all files beginning with an uppercase letter to the directory /tmp/u.
