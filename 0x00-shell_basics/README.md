@@ -10,3 +10,4 @@ This repository contains scripts that run basic shell commands
 * 5-listfilesdigitonly: This script displays all the current directory contents with the user and group IDs in a long format.
 * 6-firstdirectory: This script creates a new directory named my_first_directory in the /tmp/ directory.
 * 7-movethatfile: This script moves the file betty from /tmp/ to /tmp/my_first_directory.
+* 8-firstdelete: This script deletes the file betty.
