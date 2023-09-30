@@ -14,3 +14,4 @@ This repository contains scripts that run basic shell commands
 * 9-firstdirdeletion: This script deletes the directory my_first_directory that is in the /tmp directory.	
 * 10-back: This script changes the working directory to the previous one.
 * 11-lists: This script lists all files in the current directory and the parent of the working directory and the /boot directory in long format.
+* 12-file_type: This script prints the type of the file named iamafile.
