@@ -10,3 +10,4 @@ This directory contains scripts that redirects standard input and output of comm
   5-firstlines: This script displays the first ten lines of /etc/passwd.
   6-third_line: This script displays the third line of the file iacta.
   7-file: This script creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) and contains the text Best School.
+  8-cwd_state:  This script writes into the file ls_cwd_content the result of the command ls -la.
