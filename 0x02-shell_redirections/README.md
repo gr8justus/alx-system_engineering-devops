@@ -9,3 +9,4 @@ This directory contains scripts that redirects standard input and output of comm
   4-lastlines: This script displays the last ten lines of /etc/passwd.
   5-firstlines: This script displays the first ten lines of /etc/passwd.
   6-third_line: This script displays the third line of the file iacta.
+  7-file: This script creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) and contains the text Best School.
