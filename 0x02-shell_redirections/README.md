@@ -7,3 +7,4 @@ This directory contains scripts that redirects standard input and output of comm
   2-hellofile: This script displays the content of the /etc/passwd file.
   3-twofiles: This script displays the content of /etc/passwd and /etc/hosts.
   4-lastlines: This script displays the last ten lines of /etc/passwd.
+  5-firstlines: This script displays the first ten lines of /etc/passwd.
