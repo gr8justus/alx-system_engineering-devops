@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'doing hard things' | rev
+echo "Reverse" | rev
