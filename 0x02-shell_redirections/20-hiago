@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Cameroom, Canada, are countries' | tr -d 'cC'
+echo 'Chicago' | tr -d 'cC'
