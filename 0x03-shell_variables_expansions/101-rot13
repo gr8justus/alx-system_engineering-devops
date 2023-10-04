@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'a-zA-Z' 'n-za-mN-ZA-M' < "The journey of a thousand miles starts with a step"
+tr 'a-zA-Z' 'n-za-mN-ZA-M'
