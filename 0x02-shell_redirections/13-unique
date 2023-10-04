@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e 'tablet\nphone\npc\ntablet\nprograming\nphone' | sort | uniq -u
+sort | uniq -u
