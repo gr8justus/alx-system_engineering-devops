@@ -20,4 +20,5 @@
 - 100-lets_move: This script moves all files beginning with an uppercase letter to the directory /tmp/u.
 - 101-clean_emacs: This script deletes all files in the current working directory that end with the character ~.
 - 102-tree: This script creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
-- 103-commas: List all files and directories in the current working directory separated by commas, and directories end with a '/'
+- 103-commas: List all files and directories in the current working directory separated by commas, and directories end with a '/'.
+- school.mgc: Magic file that can be used with the linux utility to detect school data files.
