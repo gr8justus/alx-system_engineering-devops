@@ -1,0 +1,2 @@
+#!/bin/bash
+paste - - | cut -f 1 #makes input into two columns then picks the first column
